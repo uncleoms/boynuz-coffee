@@ -36,7 +36,7 @@ const Hero = () => {
           className="font-display text-5xl md:text-7xl lg:text-8xl font-bold text-[#FFFFFF] leading-tight mb-8"
           id="hero-title-a7k4v2"
         >
-          İzmit'te Gerçek Kahve <br /> <span className="text-transparent bg-clip-text" style={{ backgroundImage: 'linear-gradient(to right, #C5A059, #F5F5DC)', WebkitBackgroundClip: 'text', color: 'transparent' }}>Tutkuyla</span> Buluşuyor
+          İzmit'te Gerçek Kahve <br /> <span className="text-[#C5A059] md:text-transparent md:bg-clip-text" style={{ backgroundImage: 'linear-gradient(to right, #C5A059, #F5F5DC)', WebkitBackgroundClip: 'text' }}>Tutkuyla</span> Buluşuyor
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
